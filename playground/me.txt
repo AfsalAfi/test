@@ -1,5 +1,0 @@
-{{#user}}
-Name: Afsal M
-Skills: HTML, CSS, JS, Node js, Express js, MongoDB, Postman, React js, Flutter
-Email: afsaldesktop@gmail.com
-{{/user}}
